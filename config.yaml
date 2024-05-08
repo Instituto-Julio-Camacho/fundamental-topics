@@ -31,7 +31,7 @@ menu:
 params:
 
   name: Thiago Luiz Silva
-  title: 📓 Ensaios Sistêmicos
+  title: 📓 Temas Fundamentais
 
   # OPTIONAL: custom favicon location
   # favicon: 'location/to/favicon.png'
@@ -70,7 +70,7 @@ params:
   enableMermaid: true
 
   # Link to your Github repo
-  GitHubLink: https://github.com/institutojuliocamacho/systemic-essays
+  GitHubLink: https://github.com/institutojuliocamacho/fundamental-topics
 
   # Search (WIP)
   search:
@@ -80,7 +80,7 @@ params:
 
   # Site description and title
   description:
-    Notes, hosted by thluiz
+    Notes, hosted by Julio Camacho Institute
 
   
   # Footer links
