@@ -10,6 +10,8 @@ The purpose of Amethyst is to provide a space to publish more structured notes c
 
 Amethyst was primarily created as a theme for my [course notes](https://notes.bencuan.me).
 
+Teste
+
 ## Get Started
 > 📚 Step 1: [Setup your own Amethyst instance](setup/setup.md)
 
